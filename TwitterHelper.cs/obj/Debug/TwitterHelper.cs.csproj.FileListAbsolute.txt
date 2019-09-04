@@ -1,0 +1,6 @@
+c:\users\jacka\source\repos\demo-twitter-sa\TwitterHelper.cs\bin\Debug\TwitterHelper.cs.dll
+c:\users\jacka\source\repos\demo-twitter-sa\TwitterHelper.cs\bin\Debug\TwitterHelper.cs.pdb
+c:\users\jacka\source\repos\demo-twitter-sa\TwitterHelper.cs\obj\Debug\TwitterHelper.cs.csprojResolveAssemblyReference.cache
+c:\users\jacka\source\repos\demo-twitter-sa\TwitterHelper.cs\obj\Debug\TwitterHelper.cs.csproj.CoreCompileInputs.cache
+c:\users\jacka\source\repos\demo-twitter-sa\TwitterHelper.cs\obj\Debug\TwitterHelper.cs.dll
+c:\users\jacka\source\repos\demo-twitter-sa\TwitterHelper.cs\obj\Debug\TwitterHelper.cs.pdb
